@@ -10,6 +10,9 @@ const LANGUAGES = [
   { id: "all", label: "All" },
   { id: "english", label: "English" },
   { id: "hindi", label: "Hindi" },
+  { id: "kannada", label: "Kannada" },
+  { id: "telugu", label: "Telugu" },
+  { id: "tamil", label: "Tamil" }
 ];
 
 function Sidebar({
